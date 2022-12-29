@@ -1,0 +1,1 @@
+This is a telegram bot for parsing cryptocurrency prices from the site https://yobit.net/ and sending to telegram to the user.
