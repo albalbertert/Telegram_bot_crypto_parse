@@ -1,1 +1,1 @@
-## This is a telegram bot for parsing cryptocurrency prices from the site https://yobit.net/ and sending to telegram to the user.
+### This telegram bot at the request of the user receives cryptocurrency prices in relation to the <i>USDT</i> from the following cryptocurrency exchanges: <u><i>Binance</i></u>, <i><u>YObit</u></i>.

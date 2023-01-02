@@ -1,4 +1,5 @@
 __pycache__
 auth_data.py
+api_keys.py
 *.png
 venv
